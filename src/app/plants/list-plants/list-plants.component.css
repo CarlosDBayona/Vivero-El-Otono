@@ -1,0 +1,10 @@
+thead{
+  th{
+    background-color: black;
+    color: white;
+  }
+}
+
+.table-container{
+  padding: 0 12px
+}
